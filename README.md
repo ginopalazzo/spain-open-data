@@ -34,7 +34,7 @@ A list of Spanish open data resources
 
 # Madrid
 - [Instituto de Estadística de la Comunidad de Madrid](http://www.madrid.org/iestadis/)
-- [Cartografía del Instituto de Estadística de la Comunidad de Madrid](http://www.madrid.org/iestadis/fijas/estructu/general/territorio/estructu_descargas.htm]
+- [Cartografía del Instituto de Estadística de la Comunidad de Madrid](http://www.madrid.org/iestadis/fijas/estructu/general/territorio/estructu_descargas.htm)
 - [Banco de Datos Municipal y Zonal](http://www.madrid.org/desvan/Inicio.icm?enlace=almudena)
 
 ## Madrid City
