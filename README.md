@@ -8,20 +8,11 @@ A list of Spanish open data resources
 - [Statistics](#statistics)
 
 [Andalucia](#andalucia)
-- [Almería](#almeria)
-- [Cádiz](#cadiz)
-- [Córdoba](#cordoba)
-- [Granada](#granada)
-- [Huelva](#huelva)
-- [Jaén](#jaen)
-- [Málaga](#malaga)
-- [Sevilla](#sevilla)
-  - [Sevilla City](#sevilla-city)
+- [Almería](#almería) | [Cádiz](#cádiz) | [Córdoba](#córdoba) | [Granada](#granada) | [Huelva](#huelva) | [Jaén](#jaén) | [Málaga](#málaga) | [Sevilla](#sevilla)
 
-[Aragon](#aragon)
+[Aragón](#aragón)
 
 [Madrid](#madrid)
-- [Madrid City](#madrid-city)
 
 # Overview
 
@@ -33,6 +24,13 @@ A list of Spanish open data resources
 
 ## Statistics
 Instituto Naciona de Estadstica http://www.ine.es
+
+# Andalucía
+## Almería
+## Cádiz
+## Códoba
+## Sevilla
+### Sevilla City
 
 # Madrid
 - Instituto de Estadística de la Comunidad de Madrid http://www.madrid.org/iestadis/
