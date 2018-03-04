@@ -86,3 +86,4 @@ The goal of this list is to have a live directory of resources provided by publi
 
 ### Madrid City
 - [Datos Abiertos de la Ciudad de Madrid](https://datos.madrid.es/portal/site/egob/)
+- [Datos Abierto de EMT](https://opendata.emtmadrid.es)
