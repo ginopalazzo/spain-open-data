@@ -1,7 +1,7 @@
 # spain-open-data
 A list of Spanish open data resources.
 
-The goal of this list is to have a live directory of resources provided by public (add private sector?) administrations. It is organize by country (Spain), autonomous community (i.e Andalucía), province (Sevilla) and finally by city (Sevilla City), sorted by alphabet. 
+The goal of this list is to have a live directory of resources provided by public (add private sector?) administrations. It is organized by country (Spain), autonomous community (i.e Andalucía), province (Sevilla) and finally by city (Sevilla City), sorted alphabetically. 
 
 ## Contents
 
