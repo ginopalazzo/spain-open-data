@@ -70,14 +70,69 @@ The goal of this list is to have a live directory of resources provided by publi
 - [AEMET Open Data](http://www.aemet.es/es/datos_abiertos): Weather data and statistics
 
 ## Andalucía
-[Datos abiertos de la Junta de Andalucía](http://www.juntadeandalucia.es/datosabiertos/portal.html)
+- [Datos abiertos de la Junta de Andalucía](http://www.juntadeandalucia.es/datosabiertos/portal.html)
+- [Red de Consorcios de Transporte de Andalucía](api.ctan.es)
+
+### Almería
+- No data yet
+
+### Cádiz
+- [Datos abiertos de la Diputación de Cádiz](https://datosabiertos.dipucadiz.es/)
 
 ### Códoba
-[Datos abiertos de la Diputación de Córdoba](https://www.dipucordoba.es/transparencia/datosabiertos)
+- [Datos abiertos de la Diputación de Córdoba](https://www.dipucordoba.es/transparencia/datosabiertos)
+
+### Granada
+- [Open Data Universidad de Granada](http://opendata.ugr.es/)
+
+### Huelva
+- No data yet
+
+### Jaén
+- [Datos aiertos Universidad de Jaén](bopenaccess.ujaen.es)
+
+### Málaga
+- [Datos abierto de la Diputación de Málaga](http://www.malaga.es/gobiernoabierto/datosabiertos/)
+### Málaga City
+- [Portal de datos abiertos del Ayuntamiento Málaga](http://datosabiertos.malaga.eu/)
 
 ### Sevilla
 #### Sevilla City
 - [Datos Abiertos del Ayuntamiento de Sevilla](http://datosabiertos.sevilla.org/)
+
+## Aragón
+- [Aragon Open Data](https://opendata.aragon.es/)
+- [Aragon Open Data Github](https://github.com/aragonopendata)
+
+### Huesca
+- [Datos abiertos diputación de Huesca](http://datosabiertos.dphuesca.es/)
+
+### Teruel
+- No data yet
+
+### Zaragoza
+#### Zaragoza City
+-[Datos abiertos Zaragoza](https://www.zaragoza.es/sede/portal/datos-abiertos/)
+- [Consorcio de Transportes del área de Zaragoza](http://www.consorciozaragoza.es/content/open-data)
+
+## Asturias
+- [Datos abiertos Turismo en Asturias](https://www.turismoasturias.es/open-data/catalogo-de-datos)
+
+## Baleares
+- [Datos abiertos del Govern de les Illes Balears](www.caib.es/caibdatafront/index?lang=es)
+### Mallorca City
+- [Dato abiertos Trasporte Mallorca](https://www.tib.org/es/web/ctm/cataleg-dades)
+
+## Canarias
+### Santander City
+- [Open datos de la ciudad de Santander](http://datos.santander.es/)
+
+## Cantabria
+### Santander City
+- [Open datos de la ciudad de Santander](http://datos.santander.es/)
+
+[Castilla-La Macha](#castilla-la-mancha)
+- [Albacete](#albacete) | [Ciudad Real](#ciudad-real) | [Cuenca](#cuenca) | [Guadalajara](#guadalajara) | [Toledo](#toledo)
 
 ## Madrid
 - [Instituto de Estadística de la Comunidad de Madrid](http://www.madrid.org/iestadis/)
