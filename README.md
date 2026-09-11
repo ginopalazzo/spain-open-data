@@ -81,6 +81,7 @@ Data type / Tipos de datos:
 - :floppy_disk: [Datos Abiertos del Gobierno de España](http://datos.gob.es/)
 - :umbrella: [AEMET Open Data](http://www.aemet.es/es/datos_abiertos): Weather data and statistics
 - :floppy_disk: [alergia.ai Open Pollen Data](https://alergia.ai/datos): Daily pollen counts by species for 57 Spanish cities (from the official aerobiology networks), plus air quality and UV; daily CSV and public API, CC BY 4.0
+- :floppy_disk: [Plazos de extranjería](https://github.com/luisdues/plazos-extranjeria-es): Official 2026 non-working days for the State, the 17 autonomous communities, Ceuta and Melilla (from the BOE), plus the maximum decision time and administrative silence rule of 32 immigration procedures; JSON and CSV, MIT, DOI 10.5281/zenodo.22696991
 
 ## Andalucía
 - :floppy_disk: [Datos abiertos de la Junta de Andalucía](http://www.juntadeandalucia.es/datosabiertos/portal.html)
