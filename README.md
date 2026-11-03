@@ -79,6 +79,7 @@ Data type / Tipos de datos:
 
 ### Data
 - :floppy_disk: [Datos Abiertos del Gobierno de España](http://datos.gob.es/)
+- :floppy_disk: [SubvencionesBDNS](https://subvencionesbdns.com/): Subvenciones concedidas por las administraciones españolas (Base de Datos Nacional de Subvenciones), buscables por empresa, NIF, órgano y comunidad autónoma; actualizadas a diario y con enlace al boletín oficial de cada concesión
 - :umbrella: [AEMET Open Data](http://www.aemet.es/es/datos_abiertos): Weather data and statistics
 - :floppy_disk: [alergia.ai Open Pollen Data](https://alergia.ai/datos): Daily pollen counts by species for 57 Spanish cities (from the official aerobiology networks), plus air quality and UV; daily CSV and public API, CC BY 4.0
 - :floppy_disk: [Plazos de extranjería](https://github.com/luisdues/plazos-extranjeria-es): Official 2026 non-working days for the State, the 17 autonomous communities, Ceuta and Melilla (from the BOE), plus the maximum decision time and administrative silence rule of 32 immigration procedures; JSON and CSV, MIT, DOI 10.5281/zenodo.22696991
